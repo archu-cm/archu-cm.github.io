@@ -1,4 +1,4 @@
-baseURL = 'https://archu-cm.github.io'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Archana's Home"
 theme = "cactus"
