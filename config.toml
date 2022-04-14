@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://archu-cm.github.io'
 languageCode = 'en-us'
 title = "Archana's Home"
 theme = "cactus"
+copyright = "<a href=https://github.com/archu-cm/archu-cm.github.io/blob/main/LICENSE.txt> Archana's Home</a>"
