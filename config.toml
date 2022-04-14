@@ -2,4 +2,38 @@ baseURL = '/'
 languageCode = 'en-us'
 title = "Archana's Home"
 theme = "cactus"
-copyright = "<a href=https://github.com/archu-cm/archu-cm.github.io/blob/main/LICENSE.txt> Archana's Home</a>"
+copyright = "[Archana's Home](https://github.com/archu-cm/archu-cm.github.io/blob/main/LICENSE.txt)"
+
+[params]
+  colortheme = "light"
+  tagsOverview = false
+  logo = "images/logo.png"
+  
+  description = "Archana's blog"
+
+  [[params.social]]
+    name = "medium"
+    link = "https://medium.com/@archana-cm"
+
+  [[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/achu_reads"
+
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/archanacm11111/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3

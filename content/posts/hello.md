@@ -1,7 +1,8 @@
 ---
 title: "Hello"
 date: 2022-04-14T17:44:36+04:00
-draft: true
+draft: false
+tags: ['tech', 'life']
 ---
 
 # Hello :D
